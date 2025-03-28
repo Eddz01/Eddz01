@@ -1,4 +1,4 @@
-# 👋 Ola, bem vindo a o meu github!
+# 👋 Welcome!
 
-### Tecnologias
+### Technologies
 [![My Skills](https://skillicons.dev/icons?i=js,php,vscode,ts,npm,yarn,npm)](https://skillicons.dev)
