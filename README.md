@@ -1,7 +1,7 @@
 
 # Hello my name is Edson
 
-### Tools I use
+### Main tools
 <img heigh=100 width=100 src="https://discordjs.guide/meta-image.png"/>
 
 ###  Technologies
