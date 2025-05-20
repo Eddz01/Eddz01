@@ -8,4 +8,4 @@
 </div>
 
 ###  Technologies
-[![My Skills](https://skillicons.dev/icons?i=js,vscode,ts,html,css,yarn,npm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,ts,html,css,yarn)](https://skillicons.dev)
