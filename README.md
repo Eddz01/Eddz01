@@ -1,7 +1,10 @@
 
 # 👋 Hello my name is Edson
+<div display="flex">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MrEastz&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=MrEastz&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
 
 ### Tools
 <div style="display: flex;">
