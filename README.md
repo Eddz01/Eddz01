@@ -6,4 +6,4 @@
 </div>
 
 ###  Technologies
-[![My Skills](https://skillicons.dev/icons?i=ruby,javascript,node)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c#,javascript)](https://skillicons.dev)
