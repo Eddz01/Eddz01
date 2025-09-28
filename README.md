@@ -21,8 +21,8 @@ I am currently focused on **BackEnd, bot development, and CLI development**.
 ## 🛠️ Tools & IDEs
 Where I spend most of my time coding:
 
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-1a1a1a?style=for-the-badge&logo=visual-studio-code&logoColor=FFD700)
-![Linux](https://img.shields.io/badge/Linux-1a1a1a?style=for-the-badge&logo=linux&logoColor=FFD700)
+![VS Code](https://img.shields.io/badge/VS%20Code-1a1a1a?style=for-the-badge&logo=visualstudiocode&logoColor=FFD700)
+![Linux](https://img.shields.io/badge/Linux-1a1a1a?style=for-the-badge&logo=ubuntu&logoColor=FFD700)
 ![Windows](https://img.shields.io/badge/Windows-1a1a1a?style=for-the-badge&logo=windows&logoColor=FFD700)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=120&section=footer"/>
