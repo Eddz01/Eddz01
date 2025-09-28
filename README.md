@@ -5,10 +5,10 @@
 ---
 
 ### 🚀 Languages I use
-- ![JavaScript](https://img.shields.io/badge/Javascript-1a1a1a?style=for-the-badge&logo=typescript&logoColor=FFD700)
+- ![JavaScript](https://img.shields.io/badge/Javascript-1a1a1a?style=for-the-badge&logo=javascript&logoColor=FFD700)
 - ![Node.js](https://img.shields.io/badge/Node.js-1a1a1a?style=for-the-badge&logo=node.js&logoColor=FFD700)
 - ![PHP](https://img.shields.io/badge/PHP-1a1a1a?style=for-the-badge&logo=php&logoColor=FFD700)
-- ![Python](https://img.shields.io/badge/Python-1a1a1a?style=for-the-badge&logo=java&logoColor=FFD700)
+- ![Python](https://img.shields.io/badge/Python-1a1a1a?style=for-the-badge&logo=python&logoColor=FFD700)
 
 ---
 
