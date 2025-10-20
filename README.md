@@ -13,7 +13,7 @@
 # 👤 About Me
 
 I’m a programmer seeking knowledge and have been self-taught since I was **14 years old**.  
-I am currently focused on **BackEnd, Discord Applications Developer**.
+I am currently focused on **BackEnd, Mobile Applications**.
 
 ---
 
