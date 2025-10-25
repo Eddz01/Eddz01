@@ -5,7 +5,7 @@
 ---
 
 ### 🚀 Languages I use
-- ![GO](https://img.shields.io/badge/Java-1a1a1a?style=for-the-badge&logo=java&logoColor=FFD700)
+- ![JAVA](https://img.shields.io/badge/Java-1a1a1a?style=for-the-badge&logo=openjdk&logoColor=FFD700)
 
 
 ---
