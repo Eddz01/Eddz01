@@ -21,7 +21,7 @@ I am currently focused on **BackEnd, Mobile Applications**.
 Where I spend most of my time coding:
 
 ![VS Code](https://img.shields.io/badge/VS%20Code-1a1a1a?style=for-the-badge&logo=Visual-Studio-Code&logoColor=FFD700)
-![Linux](https://img.shields.io/badge/Linux-1a1a1a?style=for-the-badge&logoColor=FFD700)
+![Debian](https://img.shields.io/badge/Debian-1a1a1a?style=for-the-badge&logoColor=FFD700)
 ![Windows](https://img.shields.io/badge/Windows-1a1a1a?style=for-the-badge&logo=windows&logoColor=FFD700)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=120&section=footer"/>
