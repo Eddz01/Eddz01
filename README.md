@@ -5,7 +5,7 @@
 ---
 
 ### 🚀 Languages I use
-![C#](https://img.shields.io/badge/C%23-1a1a1a?style=for-the-badge&logo=csharp&logoColor=FFD700)
+![PHP](https://img.shields.io/badge/php%23-1a1a1a?style=for-the-badge&logo=php&logoColor=FFD700)
 ![Go](https://img.shields.io/badge/Go-1a1a1a?style=for-the-badge&logo=go&logoColor=FFD700)
 
 ---
