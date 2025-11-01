@@ -5,8 +5,8 @@
 ---
 
 ### 🚀 Languages I use
-![PHP](https://img.shields.io/badge/php%23-1a1a1a?style=for-the-badge&logo=php&logoColor=FFD700)
-![Go](https://img.shields.io/badge/Go-1a1a1a?style=for-the-badge&logo=go&logoColor=FFD700)
+![PHP](https://img.shields.io/badge/PHP-1a1a1a?style=for-the-badge&logo=php&logoColor=FFD700)
+![C](https://img.shields.io/badge/C-1a1a1a?style=for-the-badge&logo=c&logoColor=FFD700)
 
 ---
 
