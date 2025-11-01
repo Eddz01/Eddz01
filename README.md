@@ -8,8 +8,6 @@
 ![C#](https://img.shields.io/badge/C%23-1a1a1a?style=for-the-badge&logo=csharp&logoColor=FFD700)
 ![Go](https://img.shields.io/badge/Go-1a1a1a?style=for-the-badge&logo=go&logoColor=FFD700)
 
-
-
 ---
 
 # 👤 About Me
