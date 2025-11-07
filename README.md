@@ -4,9 +4,11 @@
 
 ---
 
-### 🚀 Languages I use
-![Go](https://img.shields.io/badge/go-1a1a1a?style=for-the-badge&logo=go&logoColor=FFD700)
-![C](https://img.shields.io/badge/C-1a1a1a?style=for-the-badge&logo=c&logoColor=FFD700)
+### 🚀 Tools I use
+![JavaScript](https://img.shields.io/badge/javascript-1a1a1a?style=for-the-badge&logo=javascript&logoColor=FFD700)
+![Node.js](https://img.shields.io/badge/node.js-1a1a1a?style=for-the-badge&logo=node.js&logoColor=FFD700)
+![TypeScript](https://img.shields.io/badge/typescript-1a1a1a?style=for-the-badge&logo=typescript&logoColor=FFD700)
+![NestJS](https://img.shields.io/badge/nestjs-1a1a1a?style=for-the-badge&logo=nestjs&logoColor=FFD700)
 
 ---
 
