@@ -9,6 +9,8 @@
 ![Node.js](https://img.shields.io/badge/node.js-1a1a1a?style=for-the-badge&logo=node.js&logoColor=FFD700)
 ![TypeScript](https://img.shields.io/badge/typescript-1a1a1a?style=for-the-badge&logo=typescript&logoColor=FFD700)
 ![NestJS](https://img.shields.io/badge/nestjs-1a1a1a?style=for-the-badge&logo=nestjs&logoColor=FFD700)
+![Git](https://img.shields.io/badge/git-1a1a1a?style=for-the-badge&logo=git&logoColor=FFD700)
+![GitHub](https://img.shields.io/badge/github-1a1a1a?style=for-the-badge&logo=github&logoColor=FFD700)
 
 ---
 
@@ -19,11 +21,11 @@ I am currently focused on **BackEnd and Others content**.
 
 ---
 
-## 🛠️ Tools & IDEs
+## 🛠️ Workspace
 Where I spend most of my time coding:
 
-![VS Code](https://img.shields.io/badge/VS%20Code-1a1a1a?style=for-the-badge&logo=Visual-Studio-Code&logoColor=FFD700)
-![Debian](https://img.shields.io/badge/Debian-1a1a1a?style=for-the-badge&logoColor=FFD700)
-![Windows](https://img.shields.io/badge/Windows-1a1a1a?style=for-the-badge&logo=windows&logoColor=FFD700)
+![Kali Linux](https://img.shields.io/badge/kali_linux-1a1a1a?style=for-the-badge&logo=kalilinux&logoColor=FFD700)
+![Windows 10](https://img.shields.io/badge/windows_10-1a1a1a?style=for-the-badge&logo=windows10&logoColor=FFD700)
+![Visual Studio Code](https://img.shields.io/badge/visual_studio_code-1a1a1a?style=for-the-badge&logo=visualstudiocode&logoColor=FFD700)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=120&section=footer"/>
