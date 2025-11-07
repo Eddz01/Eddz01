@@ -25,7 +25,7 @@ I am currently focused on **BackEnd and Others content**.
 Where I spend most of my time coding:
 
 ![Kali Linux](https://img.shields.io/badge/kali_linux-1a1a1a?style=for-the-badge&logo=kalilinux&logoColor=FFD700)
-![Windows 10](https://img.shields.io/badge/windows_10-1a1a1a?style=for-the-badge&logo=windows10&logoColor=FFD700)
+![Windows 10](https://img.shields.io/badge/windows-1a1a1a?style=for-the-badge&logo=windows10&logoColor=FFD700)
 ![Visual Studio Code](https://img.shields.io/badge/visual_studio_code-1a1a1a?style=for-the-badge&logo=visualstudiocode&logoColor=FFD700)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=120&section=footer"/>
