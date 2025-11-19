@@ -11,6 +11,7 @@
 ![NestJS](https://img.shields.io/badge/nestjs-1a1a1a?style=for-the-badge&logo=nestjs&logoColor=FFD700)
 ![Git](https://img.shields.io/badge/git-1a1a1a?style=for-the-badge&logo=git&logoColor=FFD700)
 ![GitHub](https://img.shields.io/badge/github-1a1a1a?style=for-the-badge&logo=github&logoColor=FFD700)
+![GitHub](https://img.shields.io/badge/java1a1a1a?style=for-the-badge&logo=gopenjdk&logoColor=FFD700)
 
 ---
 
